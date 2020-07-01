@@ -104,7 +104,7 @@ export interface Edge {
 export type Graph = Edge[];
 
 /**
- * Distances to each node
+ * Distances and path to each node
  */
 export interface ShortestPathTree {
   [destination: string]: {
