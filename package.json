@@ -1,6 +1,6 @@
 {
-  "name": "dijkstra-tree",
-  "version": "0.2.0",
+  "name": "@assertis/dijkstra-tree",
+  "version": "0.3.0",
   "description": "Implementation of Dijkstra's algorithm that returns a shortest path tree",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linusnorton/dijkstra-tree.git"
+    "url": "git+https://github.com/assertis/dijkstra-tree.git"
   },
   "keywords": [
     "dijkstra",
@@ -21,9 +21,9 @@
   "author": "Linus Norton",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/linusnorton/dijkstra-tree/issues"
+    "url": "https://github.com/assertis/dijkstra-tree/issues"
   },
-  "homepage": "https://github.com/linusnorton/dijkstra-tree#readme",
+  "homepage": "https://github.com/assertis/dijkstra-tree#readme",
   "dependencies": {},
   "engines": {
     "node": "^9.0.0"
